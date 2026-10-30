@@ -170,7 +170,7 @@ const english = {
   "独立模型评阅报告，固定程序将解释、实测图表、评阅及费用记录合并成可交互的 HTML。": "An independent model reviews the paper. Fixed code combines the explanation, measured figures, review and cost records into interactive HTML.",
   "最终提交、测量结果、图表注释和 API 用量记录。": "The final submission, measurements, figure annotations and API usage records.",
   "执行报告评阅、组装 HTML，并接入原博客的双栏比较。": "Run the paper review, assemble the HTML and attach the published-reference comparison.",
-  "完整的交互式 neuron paper，包含实验依据、评阅和解释成本。": "The complete interactive neuron paper, including experimental evidence, review and interpretation costs.",
+  "完整的交互式 neuron report，包含实验依据、评阅和解释成本。": "The complete interactive neuron report, including experimental evidence, review and interpretation costs.",
   "采样记录": "Sampling record",
   "打标执行记录": "Labeling execution",
   "初始交互报告": "Initial interactive report",
